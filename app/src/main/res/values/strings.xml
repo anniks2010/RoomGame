@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="comp">Computer</string>
+    <string name="rck">Rock</string>
+    <string name="ppr">paper</string>
+    <string name="scr">Scissors</string>
+    <string name="scrr">Score: 0</string>
+    <string name="end">end game</string>
+    <string name="name">Enter name here</string>
+    <string name="rules">Scissors cut paper \nPaper covers rock \nRock crushes scissors</string>
+    <string name="title">Remember the game rules!</string>
+    <string name="msg">%1$d versus Andorid: %2$d</string>
+    <string name="loose">You loose!</string>
+    <string name="win">You win!</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="start">Start</string>
+</resources>
